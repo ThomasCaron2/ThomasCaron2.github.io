@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<!-- Created By SanikaCoder -->
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Responsive Portfolio-4 | noudega</title>
+   <link rel="stylesheet" href="style.css">
+   <!-- Font awesome import -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<body>
+   <header class="header">
+      <a href="#" class="logo">noudega</a>
+
+      <i class="fa-solid fa-bars" id="menu-icon"></i>
+
+      <nav class="navbar">
+         <a href="#home" class="active">Accueil</a>
+         <a href="#services">Services</a>
+         <a href="#skills">Compétences</a>
+         <a href="#education">Education</a>
+         <a href="#contact">Contact</a>
+      </nav>
+   </header>
+
+   <section class="home" id="home">
+      <div class="home-img">
+         <img src="https://github.com/user-attachments/assets/ea6e6439-e7b8-42b5-bf82-5286217d0629" alt="">
+      </div>
+      <div class="home-content">
+         <h1>Salut, je m'appelle <span>noudega</span></h1>
+         <h3 class="typing-text">Je suis <span> </span></h3>
+         <p>Créatif,autonome, je suis passionné par le montage vidéo,
+            j'ai un grand sens au service du client dans le domaine de l'audiovisuelle 
+            </p>
+
+         <div class="social-icon">
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="#"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+         </div>
+
+         <a href="#" class="btn">Pour me recruter</a>
+      </div>
+   </section>
+
+   <section class="services" id="services">
+      <h2 class="heading">Services</h2>
+
+      <div class="services-container">
+         <div class="service-box">
+            <div class="service-info">
+               <h4></h4>
+               <h4></h4>
+               <h4></h4>
+               <h4></h4>
+               <h4></h4>
+               <h4></h4>
+               <h4></h4>
+               <h4></h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>MONTAGE VIDEO</h4>
+               <p>•Dérushage</p>
+               <h4></h4>
+               <h4></h4>
+               <p>•Habillage</p>
+               <h4></h4>
+               <h4></h4>
+               <p>•Montage son</p>
+               <h4></h4>
+               <h4></h4>
+               <p>•Montage</p>
+               <h4></h4>
+               <h4></h4>
+               <p>•Effet visuel</p>
+            </div>
+         </div>
+         <div class="service-box">
+            <div class="service-info">
+               <h4></h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>MONTAGE PHOTO</h4>
+               <p>•Prise photo portrait (numérique)</p>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <p>•Ajustement couleur</p>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <h4>  </h4>
+               <p>•Ajout d'effet photoshop</p>
+               <p></p>
+            </div>
+         </div>
+         <div class="service-box">
+            <div class="service-info">
+               <h4>MINIATURE</h4>
+               <p>•Création de Miniature personalisé</p>
+               <p>•Affiche personalisé.</p>
+            </div>
+         </div>
+
+         
+   </section>
+
+   <section class="skills" id="skills">
+      <h2 class="heading">Skills</h2>
+      <div class="container">
+         <div class="row" id="skillsContainer">
+            <div class="bar">
+               <div class="info">
+                  <img src="https://github.com/user-attachments/assets/8361b7dc-a4d1-40ea-9c9f-c9a2a00e069d"/>
+                  <span>After effect</span>
+               </div>
+            </div>
+            <div class="bar animate__animated animate__zoomIn animate__delay-2s">
+               <div class="info">
+                  <img src="https://github.com/user-attachments/assets/1cc05110-6300-4496-9985-24a23000c681"/>
+                  <span>Première Pro</span>
+               </div>
+            </div>
+            <div class="bar animate__animated animate__zoomIn animate__delay-2s">
+               <div class="info">
+                  <img src="https://github.com/user-attachments/assets/a6e86e63-8094-4738-b8d1-b87ad6360b5a"/>
+                  <span>Photoshop</span>
+               </div>
+            </div>
+            
+               </div>
+            </div>
+            
+               </div>
+            </div>
+            
+            </div>
+            </div>
+         </div>
+      </div>
+   </section>
+
+   <section class="video" id="controls">
+   </body>
+   </html>
+      <h2 class="heading">Mon <span> Education</span></h2>
+      <video controls="controls">
+         <video controls width="100"></video>
+         <video aria-setsize="50"></video>
+         <source src="CV Animé_Thomas_2.mp4"> 
+         <source src="CV Animé_Thomas_2.mp4">
+         </video>
+      
+   </section>
+
+   <section class="contact" id="contact">
+      <h2 class="heading">Contacter <span>Moi</span></h2>
+      <form action="">
+         <div class="input-box">
+            <input type="text" name="name" placeholder="Nom" required>
+            <input type="email" placeholder="Email" required>
+            <input type="Number" placeholder="Numéro téléphone" required>
+            <input type="text" placeholder="Objet">
+         </div>
+         <textarea name="" id="" cols="30" rows="10" placeholder="Votre message"></textarea>
+         <input type="submit" value="envoyer  message" class="btn">
+      </form>
+   </section>
+
+   <footer class="footer">
+      <div class="social">
+         <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+         <a href="#"><i class="fa-brands fa-square-instagram"></i></a>
+         <a href="#"><i class="fa-brands fa-facebook"></i></a>
+         <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+      </div>
+      <ul class="list">
+         <li><a href="#">FAQ</a></li>
+         <li><a href="#">Service</a></li>
+         <li><a href="#">À propos</a></li>
+         <li><a href="#">Contact</a></li>
+         <li><a href="#">Politiques de confidentialité</a></li>
+      </ul>
+      <p class="copyright">
+         ©noudega | All Right Reserved
+      </p>
+   </footer>
+   <!-- wow animation -->  
+
+   <script src="/assets/js/script.js"></script>
+</body>
+</html>
