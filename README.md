@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- Created By SanikaCoder -->
 <html lang="en">
 
